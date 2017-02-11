@@ -10,7 +10,7 @@ ESP8266 y dispositivos Seriales, Wifi, tambien incluye una API cliente Mqtt.
 https://github.com/adafruit/Adafruit_MQTT_Library
 
 Complete Tutorial
-http://pdacontrolen.com/introduction-platform-iot-cayenne-mydevices-esp8266/
+https://goo.gl/RQXoLx   
 
 # PDAControl Español
 
@@ -21,7 +21,7 @@ ESP8266 and Serial devices, Wifi, also includes a Mqtt client API.
 https://github.com/adafruit/Adafruit_MQTT_Library
 
 Tutorial Completo
-http://pdacontroles.com/introduccion-plataforma-iot-cayenne-mydevices-esp8266/
+https://goo.gl/nhqjjE  
 
 #Dashboards
 ![Portada](https://github.com/JhonControl/ESP8266_Adafruit_IO/blob/master/extras/Scream.JPG)
